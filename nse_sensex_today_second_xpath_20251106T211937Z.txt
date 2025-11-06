@@ -1,0 +1,43 @@
+=== METADATA REPORT ===
+Scraped at: 2025-11-06T21:19:37.307725Z
+
+Title: NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News &amp; Updates, Quotes- Nseindia.com
+URL: https://www.nseindia.com/
+
+H1 Headings:
+  (none found)
+
+Meta Tags:
+  name: viewport, property: None, content: width=device-width, initial-scale=1
+  name: viewport, property: None, content: width=device-width, initial-scale=1
+  name: description, property: None, content: NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, ipo, stock/share tips, indices, equity, currency and commodity market, derivatives, finance, budget, mutual fund, bond and corporate announcements more on NSEindia.com.
+  name: keywords, property: None, content: NSE, National Stock Exchange, NSE India, Stock Exchange in India, stock exchange, share markets, stock markets, currency market, currency exchange, interest rate, live stock market, share market in india, share market news, live charts, analysis, IPO, stock/share tips, indices, equity market, currency market, commodity market, derivatives, finance, budget, mutual fund, bond, corporate announcements, NSEindia.com
+  name: None, property: og:title, content: NSE - National Stock Exchange of India Ltd
+  name: None, property: og:description, content: NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and commodity market, derivatives, finance, budget, mutual fund, bond, and corporate announcements more on NSEindia.com.
+  name: None, property: og:image, content: https://www.nseindia.com/assets/images/nse-thumbnail.jpg
+  name: None, property: og:url, content: https://www.nseindia.com
+  name: None, property: og:site_name, content: NSE India
+  name: None, property: og:locale, content: en_US
+  name: None, property: og:type, content: website
+  name: None, property: og:image:width, content: 1084
+  name: None, property: og:image:height, content: 492
+  name: twitter:card, property: None, content: summary
+  name: twitter:title, property: None, content: NSE - National Stock Exchange of India Ltd
+  name: twitter:description, property: None, content: NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and commodity market, derivatives, finance, budget, mutual fund, bond, and corporate announcements more on NSEindia.com.
+  name: twitter:image, property: None, content: https://www.nseindia.com/assets/images/nse-thumbnail.jpg
+  name: twitter:domain, property: None, content: NSE India
+  name: None, property: twitter:site, content: @NSEIndia
+  name: author, property: None, content: NSE India
+  name: apple-itunes-app, property: None, content: app-id=id6736678487, app-argument=https://apps.apple.com/in/app/nseindia/id6736678487
+  name: google-play-app, property: None, content: app-id=com.nse.nseindia
+  name: HandheldFriendly, property: None, content: true
+  name: geo.position, property: None, content: 19.0705638;72.8556971
+  name: geo.placename, property: None, content: Mumbai
+  name: geo.region, property: None, content: IN-MH
+  name: ahrefs-site-verification, property: None, content: 7864f660fc98a53e5653b37c31643652415febf5b2a3fd9813c79c27e0c7bb7f
+  name: google-site-verification, property: None, content: ozKdXdMsYpDsSgPpIM8Tc-uhBk-b_Sd1TEr6s6SZYHk
+  name: google-site-verification, property: None, content: googleb59f7c7ef5eafee6.html
+  name: google-site-verification, property: None, content: a0SXQajMAfYycXFa2lONpspBidYBMtD9dTxm_6m9rbw
+  name: None, property: None, content: NSE - National Stock Exchange of India Ltd
+  name: None, property: None, content: NSE India (National Stock Exchange of India Ltd) – LIVE Share/Stock Market Updates Today. Get all latest share market news, live charts, analysis, IPO, stock/share tips, indices, equity, currency and commodity market, derivatives, finance, budget, mutual fund, bond, and corporate announcements more on NSEindia.com.
+  name: None, property: None, content: https://static.nseindia.com/nse-india.png
