@@ -1,0 +1,62 @@
+{
+  "task": "generate_video",
+  "video_details": {
+    "title": "Work-Life Balance Struggle: IT Dad and Daughter's View",
+    "language": "Tamil",
+    "duration_seconds": 40,
+    "target_audience": "Working professionals, families",
+    "tone": "Relatable, slightly humorous, heartwarming"
+  },
+  "scene_description": {
+    "setting": {
+      "location": "A home office or living room in a modern South Indian home",
+      "time_of_day": "Transitions from early morning (pre-dawn light) to late night (desk lamp light)",
+      "visual_style": "Warm, realistic, middle-class home setting.",
+      "elements": [
+        "Laptop and work documents visible.",
+        "A cup of coffee/tea.",
+             ]
+    },
+    "characters": [
+        {
+        "name": "Arun (The Father)",
+        "age": 35,
+        "role": "IT Professional, trying to balance work and upskilling.",
+        "appearance": "South Indian features, casual but slightly tired look, wearing a comfortable shirt.",
+        "action": " Looks up with a weary smile when his daughter speaks.",
+        "dialogue": {
+          "text": "",
+          "translation": ""
+        },
+  
+       {
+        "name": "Priya (The Daughter)", 
+        "age": 10,
+        "role": "School-going daughter, observant.",
+        "appearance": "South Indian features, school uniform or simple home clothes, lively and expressive.",
+        "action": "Shows Thumps up posture, with smiling face wishes him.",
+        "dialogue": {
+          "text": " Appa, all the best!!",
+          "translation": "WIshes dad , all the best?"
+        }
+      }
+
+
+    ],
+    "soundscape": {
+      "music": "Gentle, slightly melancholic acoustic guitar or light Indian classical background score.",
+      "effects": [
+                "Clear, firm voice for the daughter's dialogue."
+      ]
+    },
+    "camera_angles": [
+      "Eye-level shot of the daughter standing next to the desk, delivering her dialogue.",
+          ]
+  },
+  "output_requirements": {
+    "format": "MP4",
+    "resolution": "1920x1080 (Full HD)",
+    "audio_quality": "High-fidelity, clear dialogue and ambient sound.",
+    "video_quality": "High, realistic, and emotionally engaging."
+  }
+}

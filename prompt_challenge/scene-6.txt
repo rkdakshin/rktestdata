@@ -1,0 +1,65 @@
+{
+  "task": "generate_video",
+  "video_details": {
+    "title": "Prompt Engineering Expert Saves the Day (Ultra Realistic)",
+    "language": "Tamil",
+    "duration_seconds": 15,
+    "target_audience": "IT professionals, corporate environment",
+    "tone": "Urgent, professional, highly realistic"
+  },
+  "scene_description": {
+    "setting": {
+      "location": "Modern IT office conference room (High-end, detailed)",
+      "time_of_day": "Mid-day (Natural light streaming through a window)",
+      "visual_style": "Ultra Realistic, cinematic quality, high-fidelity textures and lighting.",
+      "elements": [
+        "A large meeting table with realistic reflections.",
+        "Team members (4-6 people) seated, showing subtle signs of stress.",
+        "Detailed background environment (monitors, papers, office clutter)."
+      ]
+    },
+    "characters": [
+      {
+        "name": "Manager (The Desperate Leader)",
+        "role": "Team Manager, worried about a critical task.",
+        "appearance": "Professional business attire, visibly stressed, slight sheen of sweat (for realism).",
+        "action": "Standing at the head of the table, leaning forward over the table, using urgent hand gestures.",
+        "dialogue": {
+          "text": "Okay team, Yaarukellam ippo prompt engineering pathi nalla theriyum?",
+          "translation": "Okay team, Who all know well about prompt engineering right now?"
+        }
+      },
+      {
+        "name": "Arjun (The Prompt Expert)",
+        "age": 35,
+        "gender": "Male",
+        "role": "IT Team member with the required skill.",
+        "appearance": "Smart casual business wear, without beard, calm and confident expression.",
+        "action": "Sitting calmly, looks up at the Manager, and deliberately raises his right hand (clear, confident gesture).",
+        "dialogue": {
+          "text": "Naan irukken sir, Ennaku prompt engineering la nalla experience irukkuthu.",
+          "translation": "I am here, sir. I have good experience in prompt engineering."
+        }
+      }
+    ],
+    "soundscape": {
+      "music": "Minimalist, realistic sound design. Tension-building underscore resolves into a subtle, positive chord.",
+      "effects": [
+        "Realistic echo in the meeting room.",
+        "Faint sound of air conditioning/ventilation.",
+        "Clear, firm dialogue delivery reflecting urgency and confidence."
+      ]
+    },
+    "camera_angles": [
+      "Cinematic wide shot showing the entire, highly realistic meeting environment.",
+      "Tight close-up on the Manager's desperate face (high realism focus on skin texture/expression).",
+      "Focus shot on the Arjun,  hand rising, then panning up to his confident face.",
+          ]
+  },
+  "output_requirements": {
+    "format": "MP4",
+    "resolution": "1920x1080 (Full HD)",
+    "audio_quality": "High-fidelity, clear dialogue and ambient sound.",
+    "video_quality": "Ultra Realistic, detailed, and cinematic."
+  }
+}

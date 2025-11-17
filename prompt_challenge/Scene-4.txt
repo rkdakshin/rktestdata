@@ -1,0 +1,69 @@
+{
+  "task": "generate_video",
+  "video_details": {
+    "title": "Work-Life Balance Struggle: IT Dad and Daughter's View",
+    "language": "Tamil",
+    "duration_seconds": 40,
+    "target_audience": "Working professionals, families",
+    "tone": "Relatable, slightly humorous, heartwarming"
+  },
+  "scene_description": {
+    "setting": {
+      "location": "A home office or living room in a modern South Indian home",
+      "time_of_day": "Transitions from early morning (pre-dawn light) to late night (desk lamp light)",
+      "visual_style": "Warm, realistic, middle-class home setting.",
+      "elements": [
+        "Laptop and work documents visible.",
+        "A cup of coffee/tea.",
+        "A clock showing early morning/late night hours."
+      ]
+    },
+    "characters": [
+      {
+        "name": "Arun (The Father)",
+        "age": 35,
+        "role": "IT Professional, trying to balance work and upskilling.",
+        "appearance": "South Indian features, casual but slightly tired look, wearing a comfortable shirt.",
+        "action": "Shown quickly typing on a laptop very early morning, then slumped at the desk, rubbing his eyes. Looks up with a weary smile when his daughter speaks.",
+        "dialogue": {
+          "text": "",
+          "translation": ""
+        }
+      },
+    
+       {
+        "name": "Priya (The Daughter)", 
+        "age": 10,
+        "role": "School-going daughter, observant.",
+        "appearance": "South Indian features, school uniform or simple home clothes, lively and expressive.",
+        "action": "Walks past the dad's desk in the morning (in uniform) and again at night (in pajamas). Stops to make a comment to her dad.",
+        "dialogue": {
+          "text": " Appa, morning-la training, night-la training, office velai vera, all the best dad?",
+          "translation": "Dad, training in the morning, training at night,  office work too?"
+        }
+      }
+
+
+    ],
+    "soundscape": {
+      "music": "Gentle, slightly melancholic acoustic guitar or light Indian classical background score.",
+      "effects": [
+        "Sound of keyboard typing (early morning/late night).",
+        "A yawn (from the father).",
+        "Clear, gentle voice for the daughter's dialogue."
+      ]
+    },
+    "camera_angles": [
+      "Quick cut montage: Father working early morning -> Father working late night.",
+      "Medium shot of the father looking tired.",
+      "Eye-level shot of the daughter standing next to the desk, delivering her dialogue.",
+      "Two-shot of the father giving a small, appreciative smile to the daughter."
+    ]
+  },
+  "output_requirements": {
+    "format": "MP4",
+    "resolution": "1920x1080 (Full HD)",
+    "audio_quality": "High-fidelity, clear dialogue and ambient sound.",
+    "video_quality": "High, realistic, and emotionally engaging."
+  }
+}

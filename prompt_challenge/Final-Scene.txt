@@ -1,0 +1,61 @@
+{
+  "video_project": {
+    "title": "Ram - Final Transformation & Prompt Battle Victory",
+    "language": "en-IN",
+    "style": "realistic cinematic with competition stage lighting",
+    "scenes": [
+      {
+        "scene_id": 3,
+        "description": "Ram, now highly confident, participates in a competitive GenAI prompt battle. His team 'Neural Architects' wins the event and stands on stage with the trophy.",
+        "location": "Large auditorium with LED stage lights and cheering audience",
+        "time_of_day": "evening competition event",
+        "characters": [
+          {
+            "name": "Ram",
+            "appearance": "Male, early 30s, confident posture, casual blazer",
+            "emotion": "proud, energetic"
+          },
+          {
+            "name": "Team Members",
+            "appearance": "Three South Indian friends, same age group, wearing team badges",
+            "emotion": "celebrating, smiling"
+          }
+        ],
+        "props": [
+          "Large trophy with 'Prompt Battle Champions' engraved",
+          "LED screen behind showing 'Neural Architects – Winners!'",
+          "Stage lights and confetti effects"
+        ],
+        "actions": [
+          "Ram confidently presenting a prompt solution during the competition.",
+          "Audience applauding as judges announce the winner.",
+          "Ram and his teammates cheer and lift the trophy together.",
+          "Group poses proudly on stage with bright lights and camera flashes."
+        ],
+        "camera": {
+          "framing": "wide shot of stage, close-ups of Ram holding trophy",
+          "movement": "dynamic cuts, energetic zoom-ins",
+          "tone": "epic, triumphant"
+        },
+        "background_voiceover": {
+          "text": "This week, Team 7 transformation reached a whole new level. With confidence and skill",
+          "language": "English with Indian Tamil tone"
+        },
+        "text_overlay": {
+          "content": "Thanks to Social Eagle for changing our mindset",
+          "style": {
+            "font": "bold cinematic",
+            "position": "bottom-center",
+            "color": "gold",
+            "effect": "fade-in"
+          }
+        },
+        "audio": {
+          "ambient": "crowd cheering, celebration ambience",
+          "emotion": "victorious and energetic"
+        },
+        "scene_end": "Fade out with confetti and spotlight on Ram holding the trophy."
+      }
+    ]
+  }
+}

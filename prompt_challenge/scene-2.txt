@@ -1,0 +1,58 @@
+{
+  "task": "generate_video",
+  "video_details": {
+    "title": "Early Morning AI Training: Dedicated Learner",
+    "language": "Tamil",
+    "duration_seconds": 20,
+    "target_audience": "Working professionals, families",
+    "tone": "Relatable, slightly humorous, heartwarming"
+  },
+  "scene_description": {
+    "setting": {
+      "location": "A cozy, quiet bedroom ",
+      "time_of_day": "Transitions from early morning (pre-dawn light) to late night (desk lamp light)",
+      "visual_style": "Soft, calm lighting transitioning to brighter light.",
+      "elements": [
+        "A bedside alarm clock displaying a time like 5:30 AM.",
+        "A laptop open to a video conferencing screen (e.g., Google Meet/Zoom) showing a title like 'AI Fundamentals' and the instructor's name 'Manoj'.",
+        "A person wearing comfortable clothes, maybe a blanket draped over their legs."
+      ]
+    },
+    "characters": [
+      {
+        "name": "Arun (The Father)",
+        "age": 35,
+        "role": "IT Professional, trying to balance work and upskilling.",
+        "appearance": "South Indian features, casual but slightly tired look, wearing a comfortable shirt.",
+        "action": "Jumps/reacts slightly to the alarm sound frombed, quickly silences it, rubs their face, and immediately focuses on the laptop screen.",
+        "dialogue": {
+          "text": "Alarm adichiducha? Seekkiram ezhundhu training-ku ready aaganum. Manoj sir class start pannirupparu.",
+          "translation": "Did the alarm go off? I must quickly get up and get ready for training. Instructor Manoj must have started the class."
+        }
+      }
+          ],
+
+
+    "soundscape": {
+      "music": "A soft, motivating, rising-tempo instrumental track.",
+      "effects": [
+        "Loud, clear alarm clock sound.",
+        "Typing or clicking sounds on the laptop.",
+        "Clear, synchronous voice for the dialogue (both the learner and the instructor).",
+        "Subtle early morning ambient sounds (distant vehicle or bird chirps)."
+      ]
+    },
+    "camera_angles": [
+      "Close-up on the alarm clock showing the time.",
+      "Medium shot of the person waking up and silencing the alarm.",
+      "Over-the-shoulder shot showing the learner and the laptop screen with Manoj's face/presentation.",
+      "Close-up on the learner's focused face as they listen."
+    ]
+  },
+  "output_requirements": {
+    "format": "MP4",
+    "resolution": "1920x1080 (Full HD)",
+    "audio_quality": "High-fidelity, clear dialogue and focused sound design.",
+    "video_quality": "High, clear, and focused."
+  }
+}
